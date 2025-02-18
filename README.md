@@ -7,4 +7,4 @@
   - React JS
   - Vite
   - Joy UI
-- Live Deployed Link: [text](https://ephemeral-mandazi-72a819.netlify.app/)
+- [Live Deployed Link](https://ephemeral-mandazi-72a819.netlify.app/)
