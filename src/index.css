@@ -1,0 +1,43 @@
+
+:root {
+  font-family: 'Poppins', sans-serif;
+}
+
+*{
+  padding: 0;
+  margin: 0;
+}
+
+
+.menuFlag{
+  width: 20px;
+}
+
+.userIcon{
+  width: 40px;
+}
+
+.flexCenter{
+  display: flex;
+  justify-content: center;
+  border: "none";
+}
+
+.worldIcon{
+  width: 40px;
+}
+
+.commonIcon{
+  width: 20px;
+}
+
+th {
+  background-color: "transparent" !important;
+}
+
+
+.iconStyle{
+  width: 15px;
+  height: 15px;
+  object-fit: contain;
+}
